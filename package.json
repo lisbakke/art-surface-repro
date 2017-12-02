@@ -7,6 +7,10 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"art": "^0.10.1",
+		"d3-array": "^1.2.1",
+		"d3-scale": "^1.0.7",
+		"d3-shape": "^1.2.0",
 		"react": "16.0.0",
 		"react-native": "0.50.4"
 	},
